@@ -5,10 +5,10 @@
 [![](https://img.shields.io/badge/License-MIT-red.svg "MIT License")](https://opensource.org/licenses/MIT)
 [![](https://img.shields.io/badge/status-beta-orange?style=flat-square)](https://github.com/yourusername/fastly-mcp)
 
-<a href="https://github.com/yourusername/fastly-mcp/stargazers"><img src="https://img.shields.io/github/stars/yourusername/fastly-mcp" alt="Stars Badge"/></a>
-<a href="https://github.com/yourusername/fastly-mcp/network/members"><img src="https://img.shields.io/github/forks/yourusername/fastly-mcp" alt="Forks Badge"/></a>
-<a href="https://github.com/yourusername/fastly-mcp/pulls"><img src="https://img.shields.io/github/issues-pr/yourusername/fastly-mcp" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/yourusername/fastly-mcp/issues"><img src="https://img.shields.io/github/issues/yourusername/fastly-mcp" alt="Issues Badge"/></a>
+` <a href="https://github.com/Arodoid/FastlyMCP/stargazers"><img src="https://img.shields.io/github/stars/Arodoid/FastlyMCP" alt="Stars Badge"/>``</a> `
+` <a href="https://github.com/yourusername/fastly-mcp/network/members"><img src="https://img.shields.io/github/forks/Arodoid/FastlyMCP" alt="Forks Badge"/>``</a> `
+` <a href="https://github.com/yourusername/fastly-mcp/pulls"><img src="https://img.shields.io/github/issues-pr/Arodoid/FastlyMCP" alt="Pull Requests Badge"/>``</a> `
+` <a href="https://github.com/Arodoid/FastlyMCP/issues"><img src="https://img.shields.io/github/issues/Arodoid/FastlyMCP" alt="Issues Badge"/>``</a> `
 
 Fastly MCP brings the power of Fastly's API directly to your AI assistants through the Model Context Protocol (MCP).
 
