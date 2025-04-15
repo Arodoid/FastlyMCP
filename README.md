@@ -1,4 +1,7 @@
-# Fastly MCP [![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white "LinkedIn")](https://www.linkedin.com/in/your-linkedin/)
+# <img src="https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_1792/v1713826774/28444/tachometer-white-png" alt="Fastly Logo" height="25"> FastlyMCP [![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white "LinkedIn")](https://www.linkedin.com/in/your-linkedin/)
+
+
+Fastly MCP brings the power of Fastly's API directly to your AI assistants through the Model Context Protocol (MCP).
 
 [![](https://badge.mcpx.dev?type=server "MCP Server")](https://modelcontextprotocol.io/introduction)
 [![](https://img.shields.io/badge/Node.js-16+-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
@@ -10,17 +13,7 @@
 <a href="https://github.com/Arodoid/FastlyMCP/pulls"><img src="https://img.shields.io/github/issues-pr/Arodoid/FastlyMCP" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/Arodoid/FastlyMCP/issues"><img src="https://img.shields.io/github/issues/Arodoid/FastlyMCP" alt="Issues Badge"/></a>
 
-Fastly MCP brings the power of Fastly's API directly to your AI assistants through the Model Context Protocol (MCP).
-
-<div align="center">
-  <img src="https://assets.fastly.com/assets/logos/1.0/fastly-logo-full-color.svg" alt="Fastly Logo" width="250">
-</div>
-
-## What is Fastly?
-
-Fastly is a powerful edge cloud platform that enables businesses to build, secure, and deliver digital experiences at scale. As an API-first company, Fastly provides complete programmatic access to its platform's functionality through a comprehensive API.
-
-### API-First Approach
+### Fastly's API-First Approach
 
 Fastly's API-first design philosophy means:
 
@@ -66,23 +59,6 @@ With Fastly MCP configured, you can ask your AI assistant questions like:
 - A Fastly account and API key ([Get started with Fastly](https://www.fastly.com/signup/))
 - An AI assistant that supports MCP (e.g., Claude, GPT with plugins)
 
-### Setup
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/fastly-mcp.git
-cd fastly-mcp
-
-# Install dependencies
-npm install
-
-# Set up your Fastly API key
-export FASTLY_API_KEY=your_fastly_api_key
-
-# Start the server
-node fastly-mcp.mjs
-```
-
 ### Connect Your AI Assistant
 
 Configure your AI assistant with:
@@ -116,7 +92,7 @@ Configure your AI assistant with:
 
 - [Fastly API Documentation](https://www.fastly.com/documentation/reference/api/)
 - [Model Context Protocol](https://modelcontextprotocol.io/introduction)
-- [Getting Started with Fastly](https://www.fastly.com/documentation/guides/getting-started/)
+- [Getting Started with Fastly](https://docs.fastly.com/en/guides/start-here)
 
 ## License
 
