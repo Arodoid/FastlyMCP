@@ -33,15 +33,6 @@ Fastly's [comprehensive API](https://www.fastly.com/documentation/reference/api/
 - **Implement Edge Logic** - Deploy custom VCL or Compute@Edge applications
 - **Automate Workflows** - Integrate with CI/CD pipelines and infrastructure tools
 
-## Fastly MCP: AI-Powered Fastly Management
-
-Fastly MCP enables AI assistants to directly interact with the Fastly API, allowing you to:
-
-- Manage your Fastly configurations through natural language conversations
-- Get real-time insights about your services, traffic, and performance
-- Automate routine tasks like cache purging and configuration updates
-- Troubleshoot issues by asking your AI assistant to check logs and metrics
-
 ### What You Can Ask Your AI
 
 With Fastly MCP configured, you can ask your AI assistant questions like:
@@ -51,6 +42,10 @@ With Fastly MCP configured, you can ask your AI assistant questions like:
 - "Purge all cache for my product catalog service"
 - "Show me the backends configured for my main website"
 - "What's my current cache hit ratio?"
+
+## 
+<img src="https://github.com/user-attachments/assets/d95c990a-0b96-404d-8cc8-c8586ad93521" alt="2025-04-16-09-13-35" width="500"/>
+<img src="https://github.com/user-attachments/assets/ac1518aa-0b11-42d1-a1db-8291faf942ee" alt="2025-04-16-09-13-35" width="500"/>
 
 ## Getting Started
 
