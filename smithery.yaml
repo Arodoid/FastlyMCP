@@ -1,0 +1,31 @@
+# Smithery.ai configuration
+startCommand:
+  type: stdio
+  configSchema:
+    # This server doesn't seem to require external configuration via Smithery yet.
+    # Add properties here if you need to pass configuration options.
+    type: object
+    properties: {}
+    required: []
+  commandFunction:
+    # A function that produces the CLI command to start the MCP on stdio.
+    # 'config' argument holds the user-provided configuration matching configSchema.
+    |-
+    (config) => ({
+      "command": "node",
+      "args": [
+        "fastly-mcp.mjs"  # The main script file
+      ],
+      "env": {
+        # Pass any necessary environment variables here.
+        # Crucially, FASTLY_API_KEY needs to be provided by the environment
+        # where the Docker container runs (Smithery handles this).
+        # Example:
+        # "SOME_OTHER_CONFIG": config.someOtherConfigValue
+      }
+    })
+
+# Optional build configuration (defaults usually work if Dockerfile is in the root)
+# build:
+#   dockerfile: Dockerfile
+#   dockerBuildPath: .

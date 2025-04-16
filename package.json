@@ -1,0 +1,21 @@
+{
+  "name": "fastly-mcp-server",
+  "version": "0.1.0",
+  "description": "MCP server for interacting with Fastly API and CLI",
+  "main": "fastly-mcp.mjs",
+  "type": "module",
+  "scripts": {
+    "start": "node fastly-mcp.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fastly",
+    "mcp",
+    "model-context-protocol"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^0.1.0"
+  }
+} 
