@@ -54,7 +54,7 @@ With Fastly MCP configured, you can ask your AI assistant questions like:
 <img src="https://github.com/user-attachments/assets/14958973-b8a9-426b-aa27-470bea012d7d" alt="2025-04-16-09-13-35" width="500"/>
 
 ### "List all my Fastly services and their domains."
-<img src="=https://github.com/user-attachments/assets/08550182-b3d9-4534-8bf4-bec7cb951465" alt="2025-04-16-09-13-35" width="500"/>
+<img src="https://github.com/user-attachments/assets/08550182-b3d9-4534-8bf4-bec7cb951465" alt="2025-04-16-09-13-35" width="500"/>
 
 ### "Build an interactive preformance dashboard about my Fastly serivce."
 <img src="https://github.com/user-attachments/assets/542b0b42-af5e-4a18-b88a-5ab2eee22214" alt="2025-04-16-09-13-35" width="600"/>
