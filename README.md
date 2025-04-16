@@ -1,6 +1,5 @@
 # <img src="https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_1792/v1713826774/28444/tachometer-white-png" alt="Fastly Logo" height="25"> FastlyMCP [![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white "LinkedIn")](https://www.linkedin.com/in/your-linkedin/) [![smithery badge](https://smithery.ai/badge/@Arodoid/fastlymcp)](https://smithery.ai/server/@Arodoid/fastlymcp)
 
-
 Fastly MCP brings the power of Fastly's API directly to your AI assistants through the Model Context Protocol (MCP).
 
 [![](https://badge.mcpx.dev?type=server "MCP Server")](https://modelcontextprotocol.io/introduction)
@@ -12,6 +11,8 @@ Fastly MCP brings the power of Fastly's API directly to your AI assistants throu
 <a href="https://github.com/Arodoid/FastlyMCP/network/members"><img src="https://img.shields.io/github/forks/Arodoid/FastlyMCP" alt="Forks Badge"/></a>
 <a href="https://github.com/Arodoid/FastlyMCP/pulls"><img src="https://img.shields.io/github/issues-pr/Arodoid/FastlyMCP" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/Arodoid/FastlyMCP/issues"><img src="https://img.shields.io/github/issues/Arodoid/FastlyMCP" alt="Issues Badge"/></a>
+
+![image](https://github.com/user-attachments/assets/2bc41b64-0df1-4339-942b-8effb229a43d)
 
 ### Fastly's API-First Approach
 
