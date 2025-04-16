@@ -12,7 +12,7 @@ ENV NODE_ENV=production
 
 # Use npm ci for a clean, reproducible install from package-lock.json
 # --omit=dev is the default for production, but being explicit doesn't hurt
-RUN npm ci --omit=dev
+RUN npm install --omit=dev
 
 # Copy the rest of the application code
 COPY fastly-mcp.mjs .
