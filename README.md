@@ -66,7 +66,7 @@ With Fastly MCP configured, you can ask your AI assistant questions like:
 
 - A Fastly account and API key ([Get started with Fastly](https://www.fastly.com/signup/))
 - An AI assistant that supports MCP (e.g., Claude, GPT with plugins)
-- The Fastly CLI installed ([Installation Guide](https://www.fastly.com/documentation/reference/cli/)
+- The Fastly CLI installed ([Installation Guide](https://www.fastly.com/documentation/reference/cli/))
 
 ### Connect Your AI Assistant
 
