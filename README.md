@@ -34,15 +34,21 @@ Fastly's [comprehensive API](https://www.fastly.com/documentation/reference/api/
 - **Implement Edge Logic** - Deploy custom VCL or Compute@Edge applications
 - **Automate Workflows** - Integrate with CI/CD pipelines and infrastructure tools
 
+### Your API Key Stays Safe!
+The AI assistant never sees your Fastly API key. It talks to a local helper (FastlyMCP) which uses the key securely.
+
 ### What You Can Ask Your AI
 
 With Fastly MCP configured, you can ask your AI assistant questions like:
 
-- "List all my Fastly services and their domains"
-- "What's the traffic pattern for my service over the last week?"
-- "Purge all cache for my product catalog service"
-- "Show me the backends configured for my main website"
-- "What's my current cache hit ratio?"
+| What You Want To Do | Example AI Request                                                |
+| ------------------- | ----------------------------------------------------------------- |
+| List your services  | "Show me all my Fastly services"                                  |
+| Get domain details  | "What domains are configured for my e-commerce service?"          |
+| Purge cache         | "Purge the cache for my product service"                          |
+| Check traffic       | "What's the traffic pattern for my main site over the last week?" |
+| View configuration  | "Show me the backend servers for my API service"                  |
+| Check performance   | "What's my current cache hit ratio?"                              |
 
 ### "What the traffic pattern my for services over the last week?"
 <img src="https://github.com/user-attachments/assets/d95c990a-0b96-404d-8cc8-c8586ad93521" alt="2025-04-16-09-13-35" width="500"/>
@@ -80,16 +86,19 @@ Configure your AI assistant with:
 }
 ```
 
-## Common Operations
+## Advanced Operation Examples
 
-| What You Want To Do | Example AI Request                                                |
-| ------------------- | ----------------------------------------------------------------- |
-| List your services  | "Show me all my Fastly services"                                  |
-| Get domain details  | "What domains are configured for my e-commerce service?"          |
-| Purge cache         | "Purge the cache for my product service"                          |
-| Check traffic       | "What's the traffic pattern for my main site over the last week?" |
-| View configuration  | "Show me the backend servers for my API service"                  |
-| Check performance   | "What's my current cache hit ratio?"                              |
+| Task Goal                        | Example AI Request                                                                                                                  |
+| :------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------- |
+| Optimize service based on traffic | "Analyze the configuration for `[service_id/name]` and suggest optimizations based on its traffic profile, prioritizing low latency." |
+| Configure for live video         | "Configure `[service_id/name]` for optimal live video streaming following the best practices outlined in `[link_to_guide_or_doc]`."    |
+| Find config conflicts            | "Identify potential configuration conflicts in `[service_id/name]` compared to standard e-commerce delivery patterns."                |
+| Optimize video chunk caching     | "Optimize caching for `[service_id/name]` to handle 10-second video chunks efficiently, minimizing origin load."                      |
+| Enhance WAF security             | "Review the WAF rules for `[service_id/name]` and suggest stricter settings to mitigate potential SQL injection attacks."             |
+| Set up origin mTLS               | "Set up Mutual TLS (mTLS) authentication between Fastly and the origin servers for `[service_id/name]`."                              |
+| Implement A/B testing (Edge)     | "Deploy a Compute@Edge function to `[service_id/name]` that performs A/B testing by routing 10% of users to backend `[backend_name]`." |
+| Add dynamic image rewriting (VCL) | "Write and deploy VCL for `[service_id/name]` to dynamically rewrite image URLs based on the requesting device's user agent."         |
+| Troubleshoot 5xx errors          | "Analyze logs for `[service_id/name]` from the past 24 hours to identify the root cause of the recent spike in 5xx errors."         |
 
 ## Learn More
 
