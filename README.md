@@ -44,9 +44,16 @@ With Fastly MCP configured, you can ask your AI assistant questions like:
 - "Show me the backends configured for my main website"
 - "What's my current cache hit ratio?"
 
-## 
+### "What the traffic pattern my for services over the last week?"
 <img src="https://github.com/user-attachments/assets/d95c990a-0b96-404d-8cc8-c8586ad93521" alt="2025-04-16-09-13-35" width="500"/>
+
+### "List all my Fastly services and their domains."
 <img src="https://github.com/user-attachments/assets/ac1518aa-0b11-42d1-a1db-8291faf942ee" alt="2025-04-16-09-13-35" width="500"/>
+
+
+### "Build an interactive preformance dashboard about my Fastly serivce."
+<img src="https://github.com/user-attachments/assets/542b0b42-af5e-4a18-b88a-5ab2eee22214" alt="2025-04-16-09-13-35" width="600"/>
+
 
 ## Getting Started
 
