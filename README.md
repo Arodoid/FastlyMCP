@@ -1,4 +1,4 @@
-# <img src="https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_1792/v1713826774/28444/tachometer-white-png" alt="Fastly Logo" height="25"> FastlyMCP [![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white "LinkedIn")](https://www.linkedin.com/in/your-linkedin/)
+# <img src="https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_1792/v1713826774/28444/tachometer-white-png" alt="Fastly Logo" height="25"> FastlyMCP [![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white "LinkedIn")](https://www.linkedin.com/in/your-linkedin/) [![smithery badge](https://smithery.ai/badge/@Arodoid/fastlymcp)](https://smithery.ai/server/@Arodoid/fastlymcp)
 
 
 Fastly MCP brings the power of Fastly's API directly to your AI assistants through the Model Context Protocol (MCP).
