@@ -2,6 +2,10 @@
 
 Fastly MCP brings the power of Fastly's API directly to your AI assistants through the Model Context Protocol (MCP).
 
+<a href="https://glama.ai/mcp/servers/@Arodoid/FastlyMCP">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@Arodoid/FastlyMCP/badge" alt="FastlyMCP MCP server" />
+</a>
+
 [![](https://badge.mcpx.dev?type=server "MCP Server")](https://modelcontextprotocol.io/introduction)
 [![](https://img.shields.io/badge/Node.js-16+-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![](https://img.shields.io/badge/License-MIT-red.svg "MIT License")](https://opensource.org/licenses/MIT)
